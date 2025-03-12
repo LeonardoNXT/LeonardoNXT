@@ -1,7 +1,3 @@
-
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&pause=1000&color=D9F7E5&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Leonardo.;I+study+Front-End+Development.)](https://git.io/typing-svg)
@@ -62,9 +58,11 @@ Um projeto de TCC que desenvolvi para a empresa fictícia NewArch. A estação m
 ---
 
 ## 📊 **Estatísticas do GitHub**  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoNXT&show_icons=true&theme=dark)  
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoNXT&layout=compact&theme=dark)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoNXT&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoNXT&layout=compact&theme=dark&bg_color=00000000&border_color=00000000" />
+</div>
 
 ---
 
