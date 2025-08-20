@@ -47,10 +47,11 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ## 🌟 **Projetos Destacados**  
 
-### 🏠 **NewArch - Estação Inteligente**  
-Um projeto de TCC que desenvolvi para a empresa fictícia NewArch. A estação monitora variáveis ambientais como temperatura, umidade e níveis de CO2, com um design moderno e viés sustentável.  
+### 🖥️ **NewArch - Desenvolvimento de Sistemas**  
+A Newarch é um trabalho de conclusão de curso Trabalho de Conclusão de Curso(TCC), cujo seu produto é o sistema Feel: FeelFlow & FeelCore, na qual a principal função é integrar os pacientes, os psicólogos e os administradores
+em um só sistema. Possibilitando a manutenção de gráficos informativos sobre os estados dos clientes e dos psicólogos além das funções ligadas aos mesmos.
 
-**Tecnologias:** React, JavaScript, GSAP, Node.js, CSS, HTML.  
+**Tecnologias:** React, JavaScript, GSAP, Node.js, CSS, HTML.
 **Links:**  
 - [Repositório no GitHub](https://github.com/LeonardoNXT/NewArch)  
 - [Deploy no Netlify](https://newarch.netlify.app)  
