@@ -1,28 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&pause=1000&color=D9F7E5&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Leonardo.;I+build+scalable+full+stack+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&pause=1000&color=D9F7E5&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Leonardo.;I+build+scalable+full+stack+applications)](https://git.io/typing-svg)
 
-# <img src="https://4kwallpapers.com/images/walls/thumbs_3t/21293.jpg" alt="Banner" width="100%"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/21293.jpg" alt="Banner" width="100%"/>
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoNXT&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
-
-Desenvolvedor apaixonado por tecnologia, inovação e sustentabilidade. Adoro criar soluções que unem funcionalidade, design e impacto positivo no mundo.  
 
 ---
 
-## 🚀 **Sobre Mim**  
-- 💻 Desenvolvedor Full Stack com foco em **React, Next.js, Node.js e TypeScript**.  
-- 🧠 Forte interesse em **arquitetura de software**, sistemas distribuídos e boas práticas como **DDD, Clean Architecture e Arquitetura Hexagonal**.  
-- 🏗️ Atualmente desenvolvendo uma **rede social com microserviços**, comunicação via **gRPC**, API Gateway (BFF) e separação de domínio.  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FAETERJ-Rio)**.  
-- ⚙️ Explorando e aplicando **Docker, Redis, Kafka, CI/CD e observabilidade** em projetos reais.  
+Desenvolvedor apaixonado por tecnologia, inovação e sustentabilidade. Adoro criar soluções que unem funcionalidade, design e impacto positivo no mundo.
+
+---
+
+## 🚀 **Sobre Mim**
+- 💻 Desenvolvedor Full Stack com foco em **React, Next.js, Node.js e TypeScript**.
+- 🧠 Forte interesse em **arquitetura de software**, sistemas distribuídos e boas práticas como **DDD, Clean Architecture e Arquitetura Hexagonal**.
+- 🏗️ Atualmente desenvolvendo uma **rede social com microserviços**, comunicação via **gRPC**, API Gateway (BFF) e separação de domínio.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FAETERJ-Rio)**.
+- ⚙️ Explorando e aplicando **Docker, Redis, Kafka, CI/CD e observabilidade** em projetos reais.
 - 🚀 Sempre evoluindo para construir sistemas escaláveis, performáticos e bem estruturados.
 
 ---
 
-## 🛠️ **Tecnologias e Ferramentas**  
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia:  
+## 🛠️ **Tecnologias e Ferramentas**
+Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,20 +35,20 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-### Backend  
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 
-## Banco de Dados
+### Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
-# Mensageria & Infraestrutura
+### Mensageria & Infraestrutura
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -61,20 +62,20 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 🌟 **Projetos Destacados**  
+## 🌟 **Projetos Destacados**
 
-### 🖥️ **NewArch - Desenvolvimento de Sistemas**  
-A Newarch é um trabalho de conclusão de curso Trabalho de Conclusão de Curso(TCC), cujo seu produto é o sistema Feel: FeelFlow & FeelCore, na qual a principal função é integrar os pacientes, os psicólogos e os administradores
-em um só sistema. Possibilitando a manutenção de gráficos informativos sobre os estados dos clientes e dos psicólogos além das funções ligadas aos mesmos.
+### 🖥️ **NewArch - Desenvolvimento de Sistemas**
+A NewArch é um Trabalho de Conclusão de Curso (TCC) cujo produto é o sistema Feel: FeelFlow & FeelCore, com a principal função de integrar pacientes, psicólogos e administradores em um único sistema. Possibilita a manutenção de gráficos informativos sobre os estados dos clientes e dos psicólogos, além das demais funcionalidades ligadas a cada perfil.
 
-**Tecnologias:** React, JavaScript, GSAP, Node.js, CSS, HTML.
-**Links:**  
-- [Repositório no GitHub](https://github.com/LeonardoNXT/NewArch)  
-- [Deploy no Netlify](https://newarch.netlify.app)  
+**Tecnologias:** React, TypeScript, GSAP, Three.js, Node.js, MongoDB, JWT, Zustand, GitHub Actions, Vercel.
+
+**Links:**
+- [Repositório no GitHub](https://github.com/LeonardoNXT/NewArch)
+- [Deploy no Netlify](https://newarch.netlify.app)
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **Estatísticas do GitHub**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoNXT&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000" />
@@ -83,15 +84,15 @@ em um só sistema. Possibilitando a manutenção de gráficos informativos sobre
 
 ---
 
-## 📫 **Vamos Conversar!**  
-Se você gostou do meu trabalho ou quer trocar ideias, sinta-se à vontade para entrar em contato:  
+## 📫 **Vamos Conversar!**
+Se você gostou do meu trabalho ou quer trocar ideias, sinta-se à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-leal-0x4/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoffice12@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-leal-0x4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoffice12@gmail.com)
 
 ---
 
-## 🌌 **Inspiração**  
+## 🌌 **Inspiração**
 > "A tecnologia é melhor quando une as pessoas." – Matt Mullenweg
->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=footer"/>
